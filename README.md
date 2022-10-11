@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **ReactJs, NodeJs, Laravel, CI**
 
-- 📫 How to reach me **sagarsangale.in**
+- 📫 How to reach me [sagarsangale.in](sagarsangale.in) || [sagarsangale111@gmail.com](sagarsangale111@gmail.com)
 
 - 📄 Know about my experiences [sagarsangale.in](sagarsangale.in)
 
